@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "MANTEC",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mantec",
+  "start_url": "/",
+  "theme_color": "#12364b",
+  "description": "Gestión de Mantenimiento"
+}
