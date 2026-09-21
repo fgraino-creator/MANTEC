@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "MANTEC",
+  "orientation": "any",
+  "scope": "/MANTEC/",
+  "short_name": "MANTEC",
+  "start_url": "/MANTEC/",
+  "theme_color": "#12364b",
+  "id": "mantec",
+  "description": "Sistema de gestión de mantenimiento MANTEC",
+  "lang": "es"
+}
