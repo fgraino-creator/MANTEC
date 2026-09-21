@@ -10,5 +10,16 @@
   "theme_color": "#12364b",
   "id": "mantec",
   "description": "Sistema de gestión de mantenimiento MANTEC",
-  "lang": "es"
+  "lang": "es",
+  "icons": [
+  {
+    "src": "/MANTEC/launchicon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "/MANTEC/launchicon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
 } 
